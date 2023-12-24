@@ -7,7 +7,7 @@ IF NOT EXISTS (SELECT NAME FROM SYS.tables WHERE NAME = 'Cidade')
 BEGIN
 
 	/* 
-		CRUD
+		CRUD 
 		C - CREATE
 		R - READ
 		U - UPDATE
